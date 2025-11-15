@@ -33,7 +33,6 @@ Por isso, nossos projetos são pensados para criar valor tanto para quem usa qua
 
 - Desenvolvimento web  
 - Desenvolvimento de software  
-- Prototipagem e hardware  
 - Projetos educacionais e sociais  
 - Experimentos e sistemas inovadores  
 
