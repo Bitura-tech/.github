@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/Bitura01.png" alt="Banner Bitura" width="100%">
+  <img src="/profile/Bitura02.png" alt="Banner Bitura" width="100%">
 </p>
 
 <h1 align="center">Bitura.tech</h1>
